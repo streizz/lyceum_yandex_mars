@@ -133,7 +133,7 @@ def form_astronaut_selection():
                             </div>
                             <div class="form-check">
                                 <input type="checkbox" class="form-check-input" id="meteorologist" name="profession" value="Метеорологист">
-                                <label class="form-check-label" for="meteorologist">Метеорологист</label>
+                                <label class="form-check-label" for="meteorologist">Метеоролог</label>
                             </div>
                             <div class="form-check">
                                 <input type="checkbox" class="form-check-input" id="engineerLifeSupport"
@@ -145,7 +145,7 @@ def form_astronaut_selection():
                                 <input type="checkbox" class="form-check-input" id="engineerRadioactivityProtection"
                                     name="profession" value="Инженер по защите от радиоактивности">
                                 <label class="form-check-label" for="engineerRadioactivityProtection">Инженер по
-                                    защите от радиоактивности</label>
+                                    радиационной защите</label>
                             </div>
                             <div class="form-check">
                                 <input type="checkbox" class="form-check-input" id="doctor" name="profession" value="Врач">
